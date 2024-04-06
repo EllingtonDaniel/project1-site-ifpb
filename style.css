@@ -1,0 +1,47 @@
+body{
+    color: black;
+    margin: 0 auto;
+    padding: 0px 0px;
+    background-color: #8FBC8F;
+    font-family:Arial, Helvetica, sans-serif        
+}
+
+#inicio{
+    text-align: center;
+    border: solid 1px;
+    background-color: #2E8B57;    
+}
+
+#cabecalho{
+    text-align: center;
+    padding: 16px;
+}
+
+#cabecalho2{
+    text-align: center;
+    line-height: 10px
+}
+#lista1{
+    text-align: center;
+    list-style-type: none;
+}
+#table-div{  
+    display: flex;
+    justify-content: center;
+}
+#table{
+    background-color:#90EE90;
+}
+.img{
+    width:750px;
+    margin: auto;    
+}
+td{
+    padding-left: 15px;  
+}
+th{
+    background-color:#00FF7F;
+}
+tr:hover{
+    background-color:#32CD32
+}
